@@ -1,0 +1,40 @@
+
+FOR LIGHTENING BALL
+
+Action::CalculateMagicDmg Att int: 10 wiz: 16  Skill lvl: 1  DMG 135-335
+Action::CalculateMagicDmg Att int: 15 wiz: 16  Skill lvl: 1  DMG 145-345
+Action::CalculateMagicDmg Att int: 20 wiz: 16  Skill lvl: 1  DMG 160-360
+Action::CalculateMagicDmg Att int: 25 wiz: 16  Skill lvl: 1  DMG 170-370
+Action::CalculateMagicDmg Att int: 30 wiz: 16  Skill lvl: 1  DMG 185-385
+Action::CalculateMagicDmg Att int: 35 wiz: 16  Skill lvl: 1  DMG 195-395
+Action::CalculateMagicDmg Att int: 40 wiz: 16  Skill lvl: 1  DMG 210-410
+Action::CalculateMagicDmg Att int: 45 wiz: 16  Skill lvl: 1  DMG 220-420
+Action::CalculateMagicDmg Att int: 50 wiz: 16  Skill lvl: 1  DMG 235-435
+Action::CalculateMagicDmg Att int: 55 wiz: 16  Skill lvl: 1  DMG 245-445
+Action::CalculateMagicDmg Att int: 60 wiz: 16  Skill lvl: 1  DMG 260-460
+Action::CalculateMagicDmg Att int: 65 wiz: 16  Skill lvl: 1  DMG 270-470
+Action::CalculateMagicDmg Att int: 70 wiz: 16  Skill lvl: 1  DMG 285-485
+Action::CalculateMagicDmg Att int: 75 wiz: 16  Skill lvl: 1  DMG 295-495
+Action::CalculateMagicDmg Att int: 80 wiz: 16  Skill lvl: 1  DMG 310-510
+Action::CalculateMagicDmg Att int: 85 wiz: 16  Skill lvl: 1  DMG 320-520
+Action::CalculateMagicDmg Att int: 90 wiz: 16  Skill lvl: 1  DMG 335-535
+Action::CalculateMagicDmg Att int: 95 wiz: 16  Skill lvl: 1  DMG 345-545
+NOW WE GOT LVL UP SKILL xD
+Action::CalculateMagicDmg Att int: 10 wiz: 16 Skill lvl: 2  DMG 170-370
+Action::CalculateMagicDmg Att int: 15 wiz: 16 Skill lvl: 2  DMG 190-390
+Action::CalculateMagicDmg Att int: 20 wiz: 16 Skill lvl: 2  DMG 220-420
+Action::CalculateMagicDmg Att int: 25 wiz: 16 Skill lvl: 2  DMG 240-440
+Action::CalculateMagicDmg Att int: 30 wiz: 16 Skill lvl: 2  DMG 270-470
+Action::CalculateMagicDmg Att int: 35 wiz: 16 Skill lvl: 2  DMG 290-490
+Action::CalculateMagicDmg Att int: 40 wiz: 16 Skill lvl: 2  DMG 320-520
+Action::CalculateMagicDmg Att int: 45 wiz: 16 Skill lvl: 2  DMG 340-540
+Action::CalculateMagicDmg Att int: 50 wiz: 16 Skill lvl: 2  DMG 370-570
+Action::CalculateMagicDmg Att int: 55 wiz: 16 Skill lvl: 2  DMG 390-590
+Action::CalculateMagicDmg Att int: 60 wiz: 16 Skill lvl: 2  DMG 420-620
+Action::CalculateMagicDmg Att int: 65 wiz: 16 Skill lvl: 2  DMG 440-640
+Action::CalculateMagicDmg Att int: 70 wiz: 16 Skill lvl: 2  DMG 470-670
+Action::CalculateMagicDmg Att int: 75 wiz: 16 Skill lvl: 2  DMG 490-690
+Action::CalculateMagicDmg Att int: 80 wiz: 16 Skill lvl: 2  DMG 520-720
+Action::CalculateMagicDmg Att int: 85 wiz: 16 Skill lvl: 2  DMG 540-740
+Action::CalculateMagicDmg Att int: 90 wiz: 16 Skill lvl: 2  DMG 570-770
+Action::CalculateMagicDmg Att int: 95 wiz: 16 Skill lvl: 2  DMG 590-790
